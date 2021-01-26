@@ -3,7 +3,7 @@ body
     background-color: #FFEFD5;
     color: #8B4513;
     margin: auto;
-    width: 60%;
+    width: 80%;
 }
 
 table, tr, th
@@ -22,4 +22,46 @@ table, tr, th
 {
     width: 120px;
     text-align: center;
+}
+
+
+
+.fejlec
+{
+    background-image: url(../resources/img/szines.jpg);
+    background-size: cover;
+    padding: 20px;
+    height: 90px;
+    
+}
+
+h1
+{
+    margin-left: 3px;
+    
+}
+
+.menu
+{
+    float: left;
+    width: 400px;
+    
+}
+
+ul
+{
+    padding: 50px;
+}
+
+li
+{
+    list-style: url(../resources/img/chili-pepper-icon.gif);
+    border: 1px solid rgb(0, 98, 255);
+    background-color: rgb(233, 233, 233);
+    padding: 8px;
+}
+
+a
+{
+    text-decoration: none;
 }
