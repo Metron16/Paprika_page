@@ -2,4 +2,24 @@ body
 {
     background-color: #FFEFD5;
     color: #8B4513;
+    margin: auto;
+    width: 60%;
+}
+
+table, tr, th
+{  
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 300px;
+    height: 25px;
+    padding: 5px;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+.jobb
+{
+    width: 120px;
+    text-align: center;
 }
