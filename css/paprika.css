@@ -3,7 +3,7 @@ body
     background-color: #FFEFD5;
     color: #8B4513;
     margin: auto;
-    width: 80%;
+    width: 70%;
 }
 
 table, tr, th
@@ -44,13 +44,21 @@ h1
 .menu
 {
     float: left;
-    width: 400px;
-    
+    width: 340px;
+    padding: 12px; 
+}
+
+.tartalom
+{
+    width: 95%;
+    padding: 20px;
+    text-align: justify;
 }
 
 ul
 {
-    padding: 50px;
+    padding: 13px;
+    margin-left: 40px;
 }
 
 li
@@ -59,6 +67,10 @@ li
     border: 1px solid #13a8fd;
     background-color: rgb(248, 248, 248);
     padding: 8px;
+    margin-bottom: 20px;
+    width: 180px;
+    color: black;
+    font-weight: bold;
 }
 
 a
